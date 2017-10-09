@@ -6,23 +6,13 @@ body {
 	color: #1B1B1B;
 	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
 }
-<<<<<<< HEAD
-=======
-
->>>>>>> we changed the font family and color
-.floatLeft {
-	margin-right: 1em;
-	float: left;
-}
-<<<<<<< HEAD
-=======
 h1 {
 	color: teal;
 } 
->>>>>>> we changed the font family and color
-.floatLeft {
-}
 .floatLeft {
 	margin-right: 1em;
 	float: left;
+	color: orange;
+	-webkit-box-shadow: 0px 0px #F19520;
+	box-shadow: 0px 0px #F19520;
 }
